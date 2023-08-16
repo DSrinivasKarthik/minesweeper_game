@@ -1,6 +1,7 @@
 # minesweeper_game
 
 Screenshots:
+<br>
 <img width="675" alt="image" src="https://github.com/DSrinivasKarthik/minesweeper_game/assets/139240749/118dc8a5-e777-431d-8b85-b088501e2a67">
 
 <img width="676" alt="image" src="https://github.com/DSrinivasKarthik/minesweeper_game/assets/139240749/ad4987d8-08ea-47ab-8971-c79ef8351c66">
