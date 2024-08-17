@@ -29,7 +29,7 @@ Minesweeper is a classic puzzle game implemented as a web application. The game 
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/your-username/minesweeper.git`
+1. Clone the repository: `git clone https://github.com/DSrinivasKarthik/minesweeper.git`
 2. Navigate to the project directory: `cd minesweeper`
 3. Open `index.html` in a web browser to start playing.
 
